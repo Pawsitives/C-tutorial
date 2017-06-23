@@ -43,7 +43,7 @@ Tính chu vi và diện tích tam giác theo công thức:
 		
 		với p = CV/2
 
-In các kết quả ra màn hình.
+	In các kết quả ra màn hình.
 
 	**Code**: [Bài 3](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap3.c) và [Demo](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap3.png).
 
@@ -54,21 +54,21 @@ và x > 0, a > 0 và a khác 1. Gợi ý: dùng công thức log(a,x) = lnx/lna.
 	
 5. Viết chương trình nhập vào tọa độ của hai điểm (x1, y1) và (x2, y2).
 
-a. Tính hệ số góc của đường thẳng đi qua 2 điểm theo công thức:
+	a. Tính hệ số góc của đường thẳng đi qua 2 điểm theo công thức:
 
-		Hệ số góc = (y2 - y1)/(x2 - x1)
+			Hệ số góc = (y2 - y1)/(x2 - x1)
 		
-b. Tính khoảng cách giữa 2 điểm theo công thức:
+	b. Tính khoảng cách giữa 2 điểm theo công thức:
 
-		Khoảng cách = sqrt((y2 - y1)^2 + (x2 - x1)^2)
+			Khoảng cách = sqrt((y2 - y1)^2 + (x2 - x1)^2)
 		
 	**Code**: [Bài 5](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap5.c) và [Demo](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap5.png).
 	
 6. Viết chương trình nhập vào một ký tự
 
-a. In ra mã ASCII của ký tự đó.
+	a. In ra mã ASCII của ký tự đó.
 
-b. In ra ký tự kế tiếp của nó.
+	b. In ra ký tự kế tiếp của nó.
 
 	**Code**: [Bài 6](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap6.c) và [Demo](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap6.png).
 	
@@ -77,7 +77,7 @@ Tính tổng trở theo công thức:
 
 		1/R = 1/R1 + 1/R2 + 1/R3
 		
-In kết quả ra màn hình.
+	In kết quả ra màn hình.
 
 	**Code**: [Bài 7](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap7.c) và [Demo](https://github.com/thiminhnhut/C/blob/d99fe877d6b76519c75bd821204ecbbfc2bb7c92/C-tutorials/caccaulenhdon/baitap/baitap7.png).
 	
